@@ -17,7 +17,7 @@
 ### About Me
 - 👨‍💻 Software Enginner at <a href="https://www.science.edu/ist/">Institute of Science and Technology
 - 💡 My passion is in uniting people and creating teams. Through synergy, the sum of all the parts > each of the parts alone
-- 🌱 I prefer working in React and Tailwind
+- 🌱 I love using React and Tailwind
 - 👯 Very open to collaborating on projects to improve my coding proficiency
 - 🧠 In addition to coding, I also love math and science, and learning more about how the universe works
 - ✨ Other Hobbies: 🎸 Guitar, ✡️ Hebrew, 🏀 Basketball, 🎹 Piano, 🏈 Football, ⚾ Baseball
