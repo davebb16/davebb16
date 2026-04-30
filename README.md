@@ -15,7 +15,7 @@
 
 
 ### About Me
-- 👨‍💻 Years of experience in web and app development
+- 👨‍💻 Years of experience in web development & design
 - 💡 My passion is in uniting people and creating teams. Through synergy, the sum of all the parts > each of the parts alone
 - 👯 Open to new opportunities, or collaboration on projects
 - 🧠 In addition to coding, I also love math and science, and learning more about how the universe works
